@@ -1,4 +1,4 @@
-[![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadsaadeh)](https://github.com/anuraghazra/github-readme-stats)
+[![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjadsaadeh&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
